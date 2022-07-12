@@ -139,6 +139,7 @@ h1 {
 .item-img {
     width: 100%;
     height: 50%;
+    border-radius: 6px;
 }
 
 .item-sale {
